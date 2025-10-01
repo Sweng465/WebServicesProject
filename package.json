@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/Sweng465/WebServicesProject#readme",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
   }
 }
